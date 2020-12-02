@@ -4,6 +4,7 @@ Hello! I'm Krishnan Shankar, a Freshman attending Thomas Jefferson High School f
 ## Links
  - [Website](https://user.tjhsst.edu/2024kshankar/)
  - [Github](https://www.github.com/KrishnanS2006/)
+ - [Devpost](https://www.devpost.com/KrishnanS2006/)
 
 ## Contact
  - [Email/Hangouts](mailto:krishnans2006@gmail.com)
