@@ -1,3 +1,5 @@
+![Krishnan Shankar](https://github-readme-stats.vercel.app/api?username=KrishnanS2006&show_icons=true&theme=vue-dark)
+
 # About Me
 Hello! I'm Krishnan Shankar, a Freshman attending Thomas Jefferson High School for Science and Technology.
 
