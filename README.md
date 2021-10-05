@@ -1,11 +1,10 @@
 ![Krishnan Shankar](https://github-readme-stats.vercel.app/api?username=KrishnanS2006&show_icons=true&theme=vue-dark)
 
 # About Me
-Hello! I'm Krishnan Shankar, a Freshman attending Thomas Jefferson High School for Science and Technology.
+Hello! I'm Krishnan Shankar, a Sophomore attending Thomas Jefferson High School for Science and Technology.
 
 ## Links
-[Website](https://user.tjhsst.edu/2024kshankar/) | [Portfolio](https://user.tjhsst.edu/2024kshankar/portfolio/) | [Resume](https://user.tjhsst.edu/2024kshankar/resume) | [Github](https://www.github.com/KrishnanS2006/) | [Devpost](https://www.devpost.com/KrishnanS2006/)
+[Website (In Progress)](https://krishnan-s.herokuapp.com/) | [LinkedIn](https://www.linkedin.com/in/krishnan-shankar/) | [Resume](https://github.com/KrishnanS2006/KrishnanS2006/raw/main/Resume-Krishnan-Shankar.pdf) | [Devpost](https://www.devpost.com/KrishnanS2006/)
 
 ## Contact
- - [Email/Hangouts](mailto:krishnans2006@gmail.com)
- - Discord - Email me for my tag
+ - [Email](mailto:krishnans2006@gmail.com)
