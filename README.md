@@ -1,4 +1,6 @@
-![Krishnan Shankar](https://github-readme-stats.vercel.app/api?username=KrishnanS2006&show_icons=true&theme=vue-dark)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KrishnanS2006&show_icons=true&count_private=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats) 
+[![GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=KrishnanS2006&show_icons=true&count_private=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnanS2006&layout=compact&langs_count=4&count_private=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Hello!](https://img.shields.io/badge/-Hello!-D3212D)]("https://github.com/KrishnanS2006")&nbsp; 
 [![I'm Krishnan Shankar](https://img.shields.io/badge/I'm-Krishnan%20Shankar-2F847C)]("https://github.com/KrishnanS2006"), 
