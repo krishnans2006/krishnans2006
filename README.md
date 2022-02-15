@@ -3,6 +3,8 @@
 [![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=KrishnanS2006&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnanS2006&layout=compact&langs_count=4&count_private=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+[![wakatime](https://wakatime.com/badge/user/0f5a93aa-05d2-4a06-ba1a-47ec5a9dd872.svg)](https://wakatime.com/@0f5a93aa-05d2-4a06-ba1a-47ec5a9dd872)
+
 [![Hello!](https://img.shields.io/badge/-Hello!-D3212D)]("https://github.com/KrishnanS2006")&nbsp; 
 [![I'm Krishnan Shankar](https://img.shields.io/badge/I'm-Krishnan%20Shankar-2F847C)]("https://github.com/KrishnanS2006"), 
 [![a Sophomore](https://img.shields.io/badge/a-Sophomore-007BA7)]("https://github.com/KrishnanS2006") 
