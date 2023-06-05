@@ -27,7 +27,7 @@
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KrishnanS2006&show_icons=true&count_private=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats) 
 [![GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=KrishnanS2006&show_icons=true&count_private=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats) 
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=KrishnanS2006&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=KrishnanS2006&theme=vue-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Trophies](https://github-profile-trophy.vercel.app/?username=KrishnanS2006&theme=nord&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </details>
