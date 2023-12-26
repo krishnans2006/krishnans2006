@@ -12,25 +12,26 @@ Hello! I'm Krishnan, a Senior at Thomas Jefferson High School for Science and Te
 [Resume](https://github.com/KrishnanS2006/KrishnanS2006/raw/main/Resume-Krishnan-Shankar.pdf) |
 [Devpost](https://www.devpost.com/KrishnanS2006)
 
-<details open="true">
 
-<summary><h2>GitHub Stats</h2></summary>
+<div align="center">
+<h3>GitHub Stats</h3>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KrishnanS2006&show_icons=true&count_private=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats) 
-[![GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=KrishnanS2006&show_icons=true&count_private=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats) 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=KrishnanS2006&theme=nord&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KrishnanS2006&show_icons=true&count_private=true&theme=vue-dark&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
 
-</details>
+[![GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=KrishnanS2006&show_icons=true&count_private=true&theme=vue-dark&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
 
-<details>
+[![Trophies](https://github-profile-trophy.vercel.app/?username=KrishnanS2006&theme=nord&row=2&column=4&margin-w=5&margin-h=5)](https://github.com/ryo-ma/github-profile-trophy)
 
-<summary><h2>WakaTime Stats</h2></summary>
+</div>
+
+<div align="center">
+<h3>WakaTime Stats</h3>
 
 [![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=KrishnanS2006&theme=vue-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Coding Activity](https://wakatime.com/share/@KrishnanS2006/a6152db2-28bc-4088-8aba-d55d43fbe95c.png)](https://wakatime.com)
 [![Languages](https://wakatime.com/share/@KrishnanS2006/8cb7c8d0-5508-454c-ad3e-c7d4b3c9b25a.png)](https://wakatime.com)
 [![Editors](https://wakatime.com/share/@KrishnanS2006/a48dedc7-e45d-4fc0-bb38-c2d84d78e8f8.png)](https://wakatime.com)
 
-</details>
+</div>
 
 <!-- DIVIDER -->
