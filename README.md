@@ -23,10 +23,16 @@ Hello! I'm Krishnan, a Senior at Thomas Jefferson High School for Science and Te
 [![Trophies](https://github-profile-trophy.vercel.app/?username=KrishnanS2006&theme=nord&row=2&column=4&margin-w=5&margin-h=5)](https://github.com/ryo-ma/github-profile-trophy)
 
 
+<!--
+
 [![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=KrishnanS2006&theme=vue-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Coding Activity](https://wakatime.com/share/@KrishnanS2006/a6152db2-28bc-4088-8aba-d55d43fbe95c.png)](https://wakatime.com)
-[![Languages](https://wakatime.com/share/@KrishnanS2006/8cb7c8d0-5508-454c-ad3e-c7d4b3c9b25a.png)](https://wakatime.com)
-[![Editors](https://wakatime.com/share/@KrishnanS2006/a48dedc7-e45d-4fc0-bb38-c2d84d78e8f8.png)](https://wakatime.com)
+
+-->
+
+[![Languages](https://wakatime.com/share/@KrishnanS2006/0efb6ab3-af9f-437c-b014-5605eb42ccc5.svg)](https://wakatime.com)
+[![Editors](https://wakatime.com/share/@KrishnanS2006/738b1417-e17b-471c-87f1-1bfd91eab4af.svg)](https://wakatime.com)
+[![Operating Systems](https://wakatime.com/share/@KrishnanS2006/8a563db8-b04c-4592-937c-f64b3b3b4aaa.svg)](https://wakatime.com)
 
 </details>
 
