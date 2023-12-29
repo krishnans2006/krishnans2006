@@ -13,9 +13,7 @@ Hello! I'm Krishnan, a Senior at Thomas Jefferson High School for Science and Te
 [Devpost](https://www.devpost.com/KrishnanS2006)
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KrishnanS2006&show_icons=true&count_private=true&theme=vue-dark&card_width=455)](https://github.com/anuraghazra/github-readme-stats)
-
 [![GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=KrishnanS2006&show_icons=true&count_private=true&theme=vue-dark&card_width=455)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Trophies](https://github-profile-trophy.vercel.app/?username=KrishnanS2006&theme=nord&row=2&column=4&margin-w=5&margin-h=5)](https://github.com/ryo-ma/github-profile-trophy)
 
 <div align="center">
