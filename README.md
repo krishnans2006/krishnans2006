@@ -12,17 +12,10 @@ Hello! I'm Krishnan, a Senior at Thomas Jefferson High School for Science and Te
 [Resume](https://github.com/KrishnanS2006/KrishnanS2006/raw/main/Resume-Krishnan-Shankar.pdf) |
 [Devpost](https://www.devpost.com/KrishnanS2006)
 
-
-<div align="center">
-<h3>GitHub Stats</h3>
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KrishnanS2006&show_icons=true&count_private=true&theme=vue-dark&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=KrishnanS2006&show_icons=true&count_private=true&theme=vue-dark&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KrishnanS2006&show_icons=true&count_private=true&theme=vue-dark&card_width=437)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=KrishnanS2006&show_icons=true&count_private=true&theme=vue-dark&card_width=404)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=KrishnanS2006&theme=nord&row=2&column=4&margin-w=5&margin-h=5)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 <div align="center">
 <h3>WakaTime Stats</h3>
