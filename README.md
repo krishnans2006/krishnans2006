@@ -8,7 +8,7 @@ Hello! I'm Krishnan, a Senior at Thomas Jefferson High School for Science and Te
 [Website](https://krishnan.web.app) |
 [Email](mailto:krishnans2006@gmail.com) |
 [LinkedIn](https://www.linkedin.com/in/krishnan-shankar) |
-[Resume](https://github.com/krishnans2006/resume/raw/main/Krishnan_Shankar_Resume.pdf) |
+[Resume](https://raw.githubusercontent.com/krishnans2006/resume/main/Krishnan_Shankar_Resume.pdf) |
 [Devpost](https://www.devpost.com/krishnans2006)
 
 #### Organizations:
