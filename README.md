@@ -3,7 +3,7 @@
 [![WakaTime](https://wakatime.com/badge/user/0f5a93aa-05d2-4a06-ba1a-47ec5a9dd872.svg)](https://wakatime.com/@0f5a93aa-05d2-4a06-ba1a-47ec5a9dd872)
 [![Stack Overflow](https://img.shields.io/stackexchange/stackoverflow/r/11317931?logo=stackoverflow&color=orange)](https://stackoverflow.com/users/11317931/krishnan-shankar)
 
-Hello! I'm Krishnan, a Senior at Thomas Jefferson High School for Science and Technology.
+I'm a Senior at Thomas Jefferson High School for Science and Technology.
 
 [Website](https://krishnan.web.app) |
 [Email](mailto:krishnans2006@gmail.com) |
