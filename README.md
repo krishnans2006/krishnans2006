@@ -12,7 +12,9 @@ I'm a Senior at Thomas Jefferson High School for Science and Technology.
 [LinkedIn](https://www.linkedin.com/in/krishnan-shankar) |
 [Devpost](https://www.devpost.com/krishnans2006)
 
-#### Organizations:
+<details>
+<summary><h4>Organizations:</h4></summary>
+
 - TJ Unmanned Aerial Vehicle
   - Built [tj-uav/GroundStation](https://github.com/tj-uav/GroundStation) ([fork](https://github.com/krishnans2006/GroundStation)) and [tj-uav/FlightSoftware](https://github.com/tj-uav/FlightSoftware) ([fork](https://github.com/krishnans2006/FlightSoftware))
 - TJ Computer Systems Lab
@@ -34,7 +36,11 @@ I'm a Senior at Thomas Jefferson High School for Science and Technology.
   - Implemented GitHub [actions](https://github.com/krishnans2006-classes/actions) to keep the hub up-to-date
   - Created a [new-class](https://github.com/krishnans2006-classes/new-class) script and a class [template](https://github.com/krishnans2006-classes/template)
 
-#### Projects:
+</details>
+
+<details>
+<summary><h4>Projects:</h4></summary>
+
 - Hackathons (with a team)
   - [Webitor](https://github.com/krishnans2006/Webitor) lets you create, edit, and publish websites quickly with custom snippets
   - [game-title](https://github.com/krishnans2006/game-title) is a websocket-based multiplayer game
@@ -100,7 +106,11 @@ I'm a Senior at Thomas Jefferson High School for Science and Technology.
   - An implementation of the underrated [Trie](https://github.com/krishnans2006/Trie) data structure
   - A re-usable [TextInput](https://github.com/krishnans2006/TextInput) class for pygame
 
-#### Other repositories:
+</details>
+
+<details>
+<summary><h4>Other repositories:</h4></summary>
+
 - Codespace-related
   - [codespaces](https://github.com/krishnans2006/codespaces)
   - [tjcsl](https://github.com/krishnans2006/tjcsl) (private since I'm not confident in the encryption)
@@ -113,9 +123,15 @@ I'm a Senior at Thomas Jefferson High School for Science and Technology.
   - My [dotfiles](https://github.com/krishnans2006/dotfiles) (formerly [shell](https://github.com/krishnans2006/shell))
   - My neovim [config.nvim](https://github.com/krishnans2006/config.nvim) (forked from [kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim))
 
-#### Open-source contributions:
+</details>
+
+<details>
+<summary><h4>Open-source contributions:</h4></summary>
+
 - [Pycord-Development/pycord](https://github.com/Pycord-Development/pycord) ([fork](https://github.com/krishnans2006/pycord))
   - [#1453](https://github.com/Pycord-Development/pycord/pull/1453), [#1838](https://github.com/Pycord-Development/pycord/pull/1838)
+
+</details>
 
 <div align="center">
 
