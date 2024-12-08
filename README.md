@@ -4,7 +4,7 @@
 [![Stack Overflow](https://img.shields.io/stackexchange/stackoverflow/r/11317931?logo=stackoverflow&color=orange)](https://stackoverflow.com/users/11317931/krishnan-shankar)
 <sup>(99th Percentile!)</sup>
 
-I'm a Computer Engineering major at the University of Illinois Urbana-Champaign.
+I'm studying Computer Engineering at the University of Illinois Urbana-Champaign.
 
 [Website](https://krishnan.web.app) |
 [Email](mailto:krishnans2006@gmail.com) |
