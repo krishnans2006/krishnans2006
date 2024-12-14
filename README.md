@@ -33,15 +33,18 @@ I'm studying Computer Engineering at the University of Illinois Urbana-Champaign
 
 -->
 <a align="center" href="https://wakatime.com/@0f5a93aa-05d2-4a06-ba1a-47ec5a9dd872">
-  <img alt="Languages" src="https://wakatime.com/share/@KrishnanS2006/0efb6ab3-af9f-437c-b014-5605eb42ccc5.svg" width="50%">
+  <img alt="Coding Activity" src="https://wakatime.com/share/@krishnans2006/a77dab57-3c4c-406d-934b-4d5e7d6c88aa.svg" width="100%">
+</a>
+<br />
+<br />
+<a align="center" href="https://wakatime.com/@0f5a93aa-05d2-4a06-ba1a-47ec5a9dd872">
+  <img alt="Languages (All)" src="https://wakatime.com/share/@krishnans2006/8c0f029a-cbf3-4cdc-ab2b-69c26e793851.svg" width="49%">
+  <img alt="Languages (30d)" src="https://wakatime.com/share/@krishnans2006/8bf48030-3996-46f5-8897-bc2c57bdb69d.svg" width="49%">
 </a>
 <br />
 <a align="center" href="https://wakatime.com/@0f5a93aa-05d2-4a06-ba1a-47ec5a9dd872">
-  <img alt="Editors" src="https://wakatime.com/share/@KrishnanS2006/738b1417-e17b-471c-87f1-1bfd91eab4af.svg" width="50%">
-</a>
-<br />
-<a align="center" href="https://wakatime.com/@0f5a93aa-05d2-4a06-ba1a-47ec5a9dd872">
-  <img alt="Operating Systems" src="https://wakatime.com/share/@KrishnanS2006/8a563db8-b04c-4592-937c-f64b3b3b4aaa.svg" width="50%">
+  <img alt="Editors" src="https://wakatime.com/share/@krishnans2006/acb23337-0b07-48c2-989f-b2dd82f5c675.svg" width="49%">
+  <img alt="Operating Systems" src="https://wakatime.com/share/@krishnans2006/8a840f9a-1986-4646-bead-acaab799f3a3.svg" width="49%">
 </a>
 
 </details>
