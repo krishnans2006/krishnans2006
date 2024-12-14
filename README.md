@@ -2,7 +2,7 @@
 
 [![WakaTime](https://wakatime.com/badge/user/0f5a93aa-05d2-4a06-ba1a-47ec5a9dd872.svg)](https://wakatime.com/@0f5a93aa-05d2-4a06-ba1a-47ec5a9dd872)
 [![Stack Overflow](https://img.shields.io/stackexchange/stackoverflow/r/11317931?logo=stackoverflow&color=orange)](https://stackoverflow.com/users/11317931/krishnan-shankar)
-<sup>(99th Percentile!)</sup>
+<!--<sup>(99th Percentile!)</sup>-->
 
 I'm studying Computer Engineering at the University of Illinois Urbana-Champaign.
 
@@ -32,10 +32,17 @@ I'm studying Computer Engineering at the University of Illinois Urbana-Champaign
 [![Coding Activity](https://wakatime.com/share/@KrishnanS2006/a6152db2-28bc-4088-8aba-d55d43fbe95c.png)](https://wakatime.com)
 
 -->
-
-[![Languages](https://wakatime.com/share/@KrishnanS2006/0efb6ab3-af9f-437c-b014-5605eb42ccc5.svg)](https://wakatime.com)
-[![Editors](https://wakatime.com/share/@KrishnanS2006/738b1417-e17b-471c-87f1-1bfd91eab4af.svg)](https://wakatime.com)
-[![Operating Systems](https://wakatime.com/share/@KrishnanS2006/8a563db8-b04c-4592-937c-f64b3b3b4aaa.svg)](https://wakatime.com)
+<a align="center" href="https://wakatime.com/@0f5a93aa-05d2-4a06-ba1a-47ec5a9dd872">
+  <img alt="Languages" src="https://wakatime.com/share/@KrishnanS2006/0efb6ab3-af9f-437c-b014-5605eb42ccc5.svg" width="50%">
+</a>
+<br />
+<a align="center" href="https://wakatime.com/@0f5a93aa-05d2-4a06-ba1a-47ec5a9dd872">
+  <img alt="Editors" src="https://wakatime.com/share/@KrishnanS2006/738b1417-e17b-471c-87f1-1bfd91eab4af.svg" width="50%">
+</a>
+<br />
+<a align="center" href="https://wakatime.com/@0f5a93aa-05d2-4a06-ba1a-47ec5a9dd872">
+  <img alt="Operating Systems" src="https://wakatime.com/share/@KrishnanS2006/8a563db8-b04c-4592-937c-f64b3b3b4aaa.svg" width="50%">
+</a>
 
 </details>
 
