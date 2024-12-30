@@ -15,7 +15,7 @@ I'm studying Computer Engineering at the University of Illinois Urbana-Champaign
 
 <h2>GitHub Stats</h2>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KrishnanS2006&show_icons=true&count_private=true&theme=vue-dark&card_width=455)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KrishnanS2006&show_icons=true&count_private=true&include_all_commits=true&theme=vue-dark&card_width=455)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=KrishnanS2006&show_icons=true&count_private=true&theme=vue-dark&card_width=455)](https://github.com/anuraghazra/github-readme-stats)
 
